@@ -2,6 +2,6 @@ import {Component} from 'angular2/core';
 
 @Component({
     selector: 'my-app',
-        template: '<h1>My colorGame in ng2 begins!</h1>'
+    templateUrl:'app/app.component.html'
         })
 export class AppComponent { }
